@@ -141,6 +141,4 @@ namespace MetricsManager.Client
             return null;
         }
     }
-    // остальные методы реализовать самим
-
 }
